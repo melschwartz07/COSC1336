@@ -1,0 +1,3 @@
+/Users/melanieschwartz/Desktop/COSC1336/cmake-build-debug/CMakeFiles/COSC1336.dir
+/Users/melanieschwartz/Desktop/COSC1336/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/melanieschwartz/Desktop/COSC1336/cmake-build-debug/CMakeFiles/rebuild_cache.dir
