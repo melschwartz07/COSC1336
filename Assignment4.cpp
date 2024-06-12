@@ -22,7 +22,7 @@ int main() {
     cout << "Enter the fifth test score: ";
     cin >> score5;
 
-    // Test score average calculation
+    // Test average calculation
     double average = (score1 + score2 + score3 + score4 + score5) / 5.0;
 
     // Display the average in fixed-point notation to one decimal
