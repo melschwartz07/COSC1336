@@ -19,12 +19,10 @@ int main() {
     // perform MPG calculation
     if (gallons != 0) {
         double milesPerGallon = miles / gallons;
-
-        // Result
+        // Result - user cannot enter 0
         cout << "The car's gas MPG is " << milesPerGallon << "." << endl;
     } else {
         cout << "The number of gallons cannot be zero." << endl;
     }
-
     return 0;
 }

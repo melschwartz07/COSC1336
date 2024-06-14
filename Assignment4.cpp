@@ -1,6 +1,6 @@
 // Melanie Schwartz
-// Assignement 4
-// 6/15/2024
+// Assignment 4
+// 6/14/2024
 
 #include <iostream>
 #include <iomanip>
