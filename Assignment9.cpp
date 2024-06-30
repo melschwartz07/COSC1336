@@ -17,7 +17,7 @@ int main() {
         std::cout << "Enter the item's wholesale cost: ";
         std::cin >> wholesaleCost;
         if (wholesaleCost < 0) {
-            std::cout << "Wholesale cost cannot be negative. Please try again.\n";
+            std::cout << "Wholesale cost cannot be negative.\n";
         }
     } while (wholesaleCost < 0);
 
@@ -26,7 +26,7 @@ int main() {
         std::cout << "Enter the item's markup percentage: ";
         std::cin >> markupPercentage;
         if (markupPercentage < 0) {
-            std::cout << "Markup percentage cannot be negative. Please try again.\n";
+            std::cout << "Markup percentage cannot be negative.\n";
         }
     } while (markupPercentage < 0);
 
